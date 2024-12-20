@@ -1,0 +1,14 @@
+{
+  "node": {
+    "f4ed73a1fdc5cf067fd0a3c068f861772607a9d9": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fsabatchkuaseli%2FDownloads%2Fnesta-main%202%2Fapp%2Factions%2FgetSignedUrl.js%22%2C%5B%22getSignedUrl%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "MhN6RVjthVobp7O2rCX0vRO3RZzLCySGCh1pSu2/KNI="
+}
